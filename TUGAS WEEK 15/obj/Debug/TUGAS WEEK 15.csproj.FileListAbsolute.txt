@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\bin\Debug\TUGAS WEEK 15.exe.config
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\bin\Debug\TUGAS WEEK 15.exe
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\bin\Debug\TUGAS WEEK 15.pdb
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\obj\Debug\TUGAS WEEK 15.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\obj\Debug\TUGAS_WEEK_15.Properties.Resources.resources
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\obj\Debug\TUGAS WEEK 15.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\obj\Debug\TUGAS WEEK 15.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\obj\Debug\TUGAS WEEK 15.exe
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\obj\Debug\TUGAS WEEK 15.pdb
+C:\Users\ASUS\source\repos\TUGAS WEEK 15\TUGAS WEEK 15\obj\Debug\TUGAS_WEEK_15.Formsatu.resources
